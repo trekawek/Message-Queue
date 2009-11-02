@@ -1,0 +1,8 @@
+Synchronous message queue.
+
+Features:
+-priorities,
+-timeout in send/recv,
+-send/recv can be controlled by int *stop_signal.
+
+Author: Tomasz Rekawek <newton@martel.pl>
